@@ -12,21 +12,18 @@
     "url": "git+https://github.com/comp426-2022-spring/a01-liyachn.git"
   },
   "keywords": [
-    "web",
-    "server",
-    "port",
-    "node",
-    "fs",
-    "args",
-    "http"
-  ],
+      "web",
+      "server",
+      "port",
+      "node",
+      "fs",
+      "args",
+      "http"
+    ],
   "author": "Liya Chen",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a01-liyachn/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a01-liyachn#readme",
-  "dependencies": {
-    "minimist": "^1.2.5"
-  }
+  "homepage": "https://github.com/comp426-2022-spring/a01-liyachn#readme"
 }
